@@ -27,16 +27,16 @@ After
 
 ![changed div tags to semantic tags](./assets/images/readme/aside-tag.png)
 
-![changed div tags to semantic tags](./assets/images/readme/footer-tag.png)
+![changed div tags to semantic tags](./assets/images/readme/footer-tag.PNG)
 
 **4** I added comments to the css page to make it easier to find and read
 
-![added comments to the css page](./assets/images/readme/css-comments.png)
+![added comments to the css page](./assets/images/readme/css-comments.PNG)
 
 
 **5** Rearanged the css and grouped them together to make it easier to find and change
 
-![grouped css together to make it easier to find and change](./assets/images/readme/navbar-css.png)
+![grouped css together to make it easier to find and change](./assets/images/readme/navbar-css.PNG)
 
 
 
